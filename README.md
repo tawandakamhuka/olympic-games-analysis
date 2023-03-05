@@ -1,5 +1,7 @@
 # Olympic Games Analysis: 1896 - 2016
 
+Direct Link to Report: https://app.powerbi.com/view?r=eyJrIjoiMjI1NDA2MWItNDg4Zi00MjRhLWIzMDItNGExYTBlZDY2YTEzIiwidCI6IjAzOWRkZTBhLTkxMTMtNDMwNy1iNDMxLTJlMDE1YWMwMTI1MyJ9
+
 This is a project which seeks to fulfill a business request. The main objectives of the business request include creating a PowerBI report with the following insights:
 - Historical Performance of Countries 
 - Top Competitors
